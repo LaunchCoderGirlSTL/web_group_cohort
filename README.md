@@ -6,6 +6,7 @@
 * What to have installed when you get there the first day
 * What to bring weekly
   * Note that laptops can be checked out for the night at CoderGirl
+* [Style Guide](style_guide)
 
 ## Lessons
 
