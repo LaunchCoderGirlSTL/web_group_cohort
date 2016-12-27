@@ -15,3 +15,5 @@ permalink: /lesson_SERIAL
 
 ### Do On Your Own
 *
+
+[Home]( /web_group_cohort )

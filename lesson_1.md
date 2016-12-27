@@ -20,3 +20,5 @@ permalink: /lesson_1
 
 ### Do On Your Own
 *
+
+[Home]( /web_group_cohort )
