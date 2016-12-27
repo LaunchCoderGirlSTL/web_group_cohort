@@ -13,7 +13,7 @@ Since it is fairly rare these days for a developer to always work alone, as a te
 
 Good:
 
-```
+```html
 <div>
   <h1>Hello</h1>
   <p>
@@ -33,7 +33,7 @@ Good:
 
 Bad:
 
-```
+```html
 <div>
 <h1>Hello</h1>
 <p> Lots of words. Lots of words. Lots of words. Lots of words. Lots of words. Lots of words. Lots of words. Lots of words. Lots of words.  </p>
@@ -48,7 +48,7 @@ Bad:
 
 Good:
 
-```
+```css
 .main {
   background-color: #eeeeee;
 }
@@ -58,7 +58,7 @@ Good:
 
 Good:
 
-```
+```js
 function hello() {
   var greeting = 'Hello CoderGirl!';
   console.log(word);
