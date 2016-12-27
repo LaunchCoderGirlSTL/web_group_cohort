@@ -61,7 +61,7 @@ Good:
 ```js
 function hello() {
   var greeting = 'Hello CoderGirl!';
-  console.log(word);
+  console.log(greeting);
 }
 ```
 
