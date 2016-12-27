@@ -4,6 +4,7 @@ permalink: /lesson_SERIAL
 ---
 
 # Lesson SERIAL
+
 ## TITLE
 
 ### This Lesson’s Focus

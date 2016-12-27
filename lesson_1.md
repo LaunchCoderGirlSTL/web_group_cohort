@@ -4,6 +4,7 @@ permalink: /lesson_1
 ---
 
 # Lesson 1
+
 ## Web Overview
 
 ### This Lesson’s Focus
