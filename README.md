@@ -1,5 +1,3 @@
-# CoderGirl Web Cohort
+# Lessons
 
-## Lessons
-
-Visit http://LaunchCoderGirlSTL.github.io/web_group_cohort to follow along with the lessons.
+Visit our [Github Page](http://LaunchCoderGirlSTL.github.io/web_group_cohort) to follow along with the lessons.
