@@ -44,7 +44,7 @@ Bad:
 </div>
 ```
 
-** CSS **
+**CSS**
 
 Good:
 
@@ -54,7 +54,7 @@ Good:
 }
 ```
 
-** Javascript **
+**Javascript**
 
 Good:
 
