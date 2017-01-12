@@ -13,24 +13,24 @@
 ### Overview
 * [Lesson 1](lesson_1)
 
-### HTML / CSS
+### Unit 1: HTML & CSS 
 * [Lesson 2](lesson_2)
 * [Lesson 3](lesson_3)
 * [Lesson 4](lesson_4)
 * [Lesson 5](lesson_5)
 
-### Javascript / jQuery
+### Unit 2: Javascript & JQuery
 * [Lesson 6](lesson_6)
 * [Lesson 7](lesson_7)
 * [Lesson 8](lesson_8)
 * [Lesson 9](lesson_9)
 * [Lesson 10](lesson_10)
 
-### Frameworks
+### Unit 3: Frameworks
 
 * Coming Soon
 
-### Project Prep
+### Unit 4: Project Prep
 
 * [Week 23](week_23)
 * [Week 24](week_24)
