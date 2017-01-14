@@ -16,9 +16,6 @@ This path is for people wanting to code websites. By the end of this path you wi
 * Built 3 Websites
 * Built an Online Portfolio for Yourself
 
-(Read More)[intro]
-
-
 This site will act as your portal to all the resources you will need on your learning path. Starting with Lessons. Lessons consist of...
 
 1. A Focus - what you will learn during the lesson
@@ -33,7 +30,7 @@ Outside of Lessons there are a few other tools you can use to work through the L
 
 2. CoderGirl Meet-Ups (6-8pm Wednesday)
 Meet-Ups happen every Wednesday from 6-8pm. To be prepared make sure to bring:
-    1. your computer (or if you don’t have one, you will have access to one at CoderGirl
+    1. your computer (or if you don’t have one, you will have access to one at CoderGirl)
     2. computer charger
     3. some headphones
     4. a pen and some paper
