@@ -48,4 +48,6 @@ You are ready to begin the First Lesson!
 
 [Lesson 1](lesson_1)
 
-[Home]( / )
+### Back
+
+[Home]( /web_group_cohort )
