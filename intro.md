@@ -35,14 +35,14 @@ Meet-Ups happen every Wednesday from 6-8pm. To be prepared, make sure to bring:
     3. some headphones
     4. a pen and some paper
 
-At the meet the Web Dev mentors will lead you through a variety of things…
+At the MeetUp, the Web Dev mentors will lead you through a variety of things…
 
-* "Quick Talks” - mini lessons on things that are challenging or get confusing when learning web development
-* Share/Discuss Assignment - students will get to show their accomplishments since the last meetup
+* "Quick Talks" - mini lessons on things that are challenging or get confusing when learning web development
+* Share/Discuss Assignment - students will get to show their accomplishments since the last MeetUp
 * Sometimes you will work with other people in your cohort to complete group assignments
-* Sometimes you will get a "Work Day” - time to start on a new lesson, course or assignment
+* Sometimes you will get a "Work Day" - time to start on a new lesson, course or assignment
 
-Mentors will post what we covered in the meet up after every Wednesday so you have a reference (or in the case you are not in STL, you can follow along).
+Mentors will post what we covered in the MeetUp after every Wednesday so you have a reference (or in the case you are not in St. Louis, you can follow along).
 
 You are ready to begin the First Lesson!
 
