@@ -23,6 +23,7 @@ permalink: /lesson_1
 #### Assignment: How The Web Works
 
 **Read/Watch:**
+
 * [Video, Khan Academy - How the Internet Works: HTTP & HTML](https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-http-and-html)
 * [Article, Mozilla: How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
@@ -48,26 +49,21 @@ permalink: /lesson_1
 
 ### Additional Resources
 
-[Khan Academy - Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
-
-[Viking Code School - What a Web Developer Does](https://www.vikingcodeschool.com/web-development-basics/what-a-web-developer-does)
-
-[What makes a good web developer by Oreana Rose](http://oreanarose.com/2010/12/what-makes-a-good-web-developer/)
+* [Khan Academy - Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+* [Viking Code School - What a Web Developer Does](https://www.vikingcodeschool.com/web-development-basics/what-a-web-developer-does)
+* [What makes a good web developer by Oreana Rose](http://oreanarose.com/2010/12/what-makes-a-good-web-developer/)
 
 ## Pre-Lesson 2
 
 ###Setting Up GitHub for your Online Profile
 
-1. After creating a GitHub account, you are going to “fork” your first "repository"…
-	* note: “repository” and forking” are a Git term… repository is then collection of files that make up a project and forking means to copy of a version of a project, so you can edit it and make it your own without affecting the original project. *For example, image you wanted to use the same layout of a friend’s resume in google docs, you could duplicate or copy the document and put it in your google drive. That way when you edit the document to put in your own information, you won’t ruin your friend’s resume.*
+1. After creating a GitHub account, complete the [Hello World](https://guides.github.com/activities/hello-world/) exercise from GitHub
+2. Next you are going to “fork” your first "repository"…
+	* note: “repository” and forking” are a Git term… *repository* is the collection of files that make up a project and *forking* means to copy of a version of a project, so you can edit it and make it your own without affecting the original project. *For example, image you wanted to use the same layout of a friend’s resume in google docs, you could duplicate or copy the document and put it in your google drive. That way when you edit the document to put in your own information, you won’t ruin your friend’s resume.*
 	* Complete the Getting Started section in [Web Group Project 0](https://github.com/LaunchCoderGirlSTL/web_group_project_0)
-2. Now that you created your own repository on GitHub, you are going to create a local copy on your computer to do work on. This is called cloning a repository.
-	* note: clone is another git term… the repository stored on GitHub is known as a "remote” repository, which basically means it is the master/public copy stored on GitHub. The local copy is the one on your computer to which you can play around and make edits. Then when you have a good change you can move that change up to the remote repository on GitHub. *For example, if you are working on a google document with a group. you might copy the document to your computer to work on individually and when you had all your changes ready for the group to look at, you would add them to the document on google drive. The remote repository on Github is like group document on Google Drive in this case.*
-	* Download [GitHub Desktop](https://desktop.github.com/)
-	* [Getting started with GitHub Desktop](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
-	* Complete the [Hello World](https://guides.github.com/activities/hello-world/) exercise from GitHub
+3. Now that you created your own repository on GitHub, you are going to create a local copy on your computer to do work on. This is called cloning a repository.
+	* note: *clone* is another git term… the repository stored on GitHub is known as a "remote” repository, which means it is the master/public copy stored on GitHub. The local copy is the one on your computer to which you can play around and make edits. Then when you have a good change you can move that change up to the *remote* repository on GitHub. *For example, if you are working on a google document with a group, you might copy the document to your computer to work on individually and when you had all your changes ready for the group to look at, you would add them to the document on google drive. The remote repository on GitHub is like group document on Google Drive in this case.*
+	* Download: [GitHub Desktop](https://desktop.github.com/)
+	* Read: [Getting started with GitHub Desktop](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
 
-
-### Back
-
-[Home]( /web_group_cohort )
+### [Home]( /web_group_cohort )

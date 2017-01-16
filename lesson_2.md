@@ -47,6 +47,4 @@ permalink: /lesson_2
  
 Don’t worry if the final product still looks rough, you will be continually updating this site throughout the semester.
 
-### Back
-
-[Home]( /web_group_cohort )
+### [Home]( /web_group_cohort )

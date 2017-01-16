@@ -56,9 +56,8 @@ You are ready to begin the First Lesson!
 
 ### Create Accounts:
 
-* [Slack](https://launchcode-community.herokuapp.com/)
+* [LaunchCode's Slack](https://launchcode-community.herokuapp.com/)
+* Join the #codergirl-general and #cg-web-dev channel
 * [GitHub](https://github.com/)
 
-### Back
-
-[Home]( /web_group_cohort )
+### [Home]( /web_group_cohort )
