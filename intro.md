@@ -26,7 +26,7 @@ Outside of Lessons there are a few other tools you can use to work through the L
 
 1. Slack - slack is a great tool that allows you to not feel lonely as you are learning outside of the physical CoderGirl meet-up. This is where you can talk to other people in your cohort (maybe some homework help), get help from mentors, or post cool/helpful things you find as you learn. It's the same community you will find at the physical meet-up but ONLINE! It's great.
 	* If you haven't already, join the slack community here go to the Pre-Lesson to download and get started
-	* If you have slack, but aren't sure how to use it, google it 😃 there are some great articles out there. (You can also start with [the one slack offers](https://slack.com/is))
+	* If you have slack, but aren't sure how to use it, just google it. There are some great articles out there. (You can also start with [the one slack offers](https://slack.com/is))
 
 2. CoderGirl Meet-Ups (6-8pm Wednesday)
 Meet-Ups happen every Wednesday from 6-8pm. To be prepared, make sure to bring:
