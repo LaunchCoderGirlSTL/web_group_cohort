@@ -7,7 +7,7 @@ permalink: /lesson_9
 
 ## Bringing in JSON
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

@@ -7,7 +7,7 @@ permalink: /week_24
 
 ## Collaboration
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

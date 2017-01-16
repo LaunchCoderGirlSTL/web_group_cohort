@@ -7,7 +7,7 @@ permalink: /lesson_5
 
 ## Flexbox: Get Your Fix
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

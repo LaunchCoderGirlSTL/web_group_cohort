@@ -7,7 +7,7 @@ permalink: /lesson_SERIAL
 
 ## TITLE
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

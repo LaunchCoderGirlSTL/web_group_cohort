@@ -7,7 +7,7 @@ permalink: /lesson_3
 
 ## Kat's Costume Shop
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

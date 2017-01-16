@@ -7,7 +7,7 @@ permalink: /lesson_8
 
 ## Javascript Forms
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

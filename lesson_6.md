@@ -7,7 +7,7 @@ permalink: /lesson_6
 
 ## Intro to jQuery & Javascript
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

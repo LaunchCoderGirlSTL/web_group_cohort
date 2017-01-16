@@ -7,7 +7,7 @@ permalink: /lesson_1
 
 ## Web Overview
 
-### This Lesson’s Focus
+### This Lesson's Focus
 * How the Web Works?
 * What Front-End Web Developers Do?
 * What skills do Front-End Web Developers need?
@@ -29,7 +29,7 @@ permalink: /lesson_1
 
 **Do:** Draw a diagram or write a paragraph describing the what happens when you type a URL into the address bar of a web browser (like Chrome or Firefox). From entering the URL to the web page loading on your computer. Make sure to include how the Internet knows where to find the files your computer needs and what files get sent to your computer for your browser to load?
 
-**Bonus Challenge:** in what order the files load in the browser? (FYI: this isn’t something you are suppose to know… google will be your friend) We will talk about this at the MeetUp so be prepared to share.
+**Bonus Challenge:** in what order the files load in the browser? (FYI: this isn't something you are suppose to know… google will be your friend) We will talk about this at the MeetUp so be prepared to share.
 
 #### Assignment: You as a Front End Web Developer!
 
@@ -58,11 +58,11 @@ permalink: /lesson_1
 ###Setting Up GitHub for your Online Profile
 
 1. After creating a GitHub account, complete the [Hello World](https://guides.github.com/activities/hello-world/) exercise from GitHub
-2. Next you are going to “fork” your first "repository"…
-	* note: “repository” and forking” are a Git term… *repository* is the collection of files that make up a project and *forking* means to copy of a version of a project, so you can edit it and make it your own without affecting the original project. *For example, image you wanted to use the same layout of a friend’s resume in google docs, you could duplicate or copy the document and put it in your google drive. That way when you edit the document to put in your own information, you won’t ruin your friend’s resume.*
+2. Next you are going to "fork” your first "repository"…
+	* note: "repository” and forking” are a Git term… *repository* is the collection of files that make up a project and *forking* means to copy of a version of a project, so you can edit it and make it your own without affecting the original project. *For example, image you wanted to use the same layout of a friend's resume in google docs, you could duplicate or copy the document and put it in your google drive. That way when you edit the document to put in your own information, you won't ruin your friend's resume.*
 	* Complete the Getting Started section in [Web Group Project 0](https://github.com/LaunchCoderGirlSTL/web_group_project_0)
 3. Now that you created your own repository on GitHub, you are going to create a local copy on your computer to do work on. This is called cloning a repository.
-	* note: *clone* is another git term… the repository stored on GitHub is known as a "remote” repository, which means it is the master/public copy stored on GitHub. The local copy is the one on your computer to which you can play around and make edits. Then when you have a good change you can move that change up to the *remote* repository on GitHub. *For example, if you are working on a google document with a group, you might copy the document to your computer to work on individually and when you had all your changes ready for the group to look at, you would add them to the document on google drive. The remote repository on GitHub is like group document on Google Drive in this case.*
+	* note: *clone* is another git term… the repository stored on GitHub is known as a "remote" repository, which means it is the master/public copy stored on GitHub. The local copy is the one on your computer to which you can play around and make edits. Then when you have a good change you can move that change up to the *remote* repository on GitHub. *For example, if you are working on a google document with a group, you might copy the document to your computer to work on individually and when you had all your changes ready for the group to look at, you would add them to the document on google drive. The remote repository on GitHub is like group document on Google Drive in this case.*
 	* Download: [GitHub Desktop](https://desktop.github.com/)
 	* Read: [Getting started with GitHub Desktop](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
 

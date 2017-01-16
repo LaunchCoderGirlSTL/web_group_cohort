@@ -7,7 +7,7 @@ permalink: /lesson_7
 
 ## Javascript: Get Your Fix
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

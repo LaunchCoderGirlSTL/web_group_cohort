@@ -7,7 +7,7 @@ permalink: /week_23
 
 ## UI / UX
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

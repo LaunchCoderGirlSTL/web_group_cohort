@@ -7,10 +7,10 @@ permalink: /lesson_2
 
 ## Personal Website
 
-### This Lesson’s Focus: Learning HTML & CSS
+### This Lesson's Focus: Learning HTML & CSS
 * html elements (lists, headings, p, a, form inputs)
 * css font styles (family, size, weight, transform, color)
-* box model (margin, border, padding, 
+* box model (margin, border, padding,
 * widths, heights
 * borders
 
@@ -44,7 +44,7 @@ permalink: /lesson_2
 1. Update All Text, including your name, tagline and a little description of yourself
 2. Change Out the Picture
 3. Change the Colors - make the website yours by updating the color scheme to suit your taste
- 
-Don’t worry if the final product still looks rough, you will be continually updating this site throughout the semester.
+
+Don't worry if the final product still looks rough, you will be continually updating this site throughout the semester.
 
 ### [Home]( /web_group_cohort )

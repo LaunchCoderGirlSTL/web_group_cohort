@@ -2,7 +2,7 @@
 
 ## Intro
 
-Welcome to CoderGirl’s Front-End Web Developer learning plan!
+Welcome to CoderGirl's Front-End Web Developer learning plan!
 
 This path is for people wanting to code websites. By the end of this path you will have...
 
@@ -19,7 +19,7 @@ This path is for people wanting to code websites. By the end of this path you wi
 ### Overview
 * [Lesson 1](lesson_1)
 
-### Unit 1: HTML & CSS 
+### Unit 1: HTML & CSS
 * [Lesson 2](lesson_2)
 * [Lesson 3](lesson_3)
 * [Lesson 4](lesson_4)

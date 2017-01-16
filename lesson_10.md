@@ -7,7 +7,7 @@ permalink: /lesson_10
 
 ## Popups, Niceties, and More
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl

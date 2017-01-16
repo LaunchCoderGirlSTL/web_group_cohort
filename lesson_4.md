@@ -7,7 +7,7 @@ permalink: /lesson_4
 
 ## Responsive Web
 
-### This Lesson’s Focus
+### This Lesson's Focus
 *
 
 ### At CoderGirl
