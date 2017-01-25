@@ -40,7 +40,8 @@ For example, if you are working on a google document with a group. you might cop
 
 
 ### Course Work
-*Assignment: Take HTML/CSS online course*<br/>
+
+#### Assignment: Take HTML/CSS online course  
 **Do**: [ KhanAcademy - Intro to HTML/CSS: Making webpages ](https://www.khanacademy.org/computing/computer-programming/html-css)<br/>
 Complete the following sections of the KhanAcademy class:
 * Intro to HTML
@@ -50,7 +51,7 @@ Complete the following sections of the KhanAcademy class:
 * CSS layout
 * More CSS selectors
 
-*Assignment: Update Your Online Portfolio*  
+#### Assignment: Update Your Online Portfolio  
 **Do**: Make It Your Own - Follow these steps to update the online portfolio project that we cloned to your computer during the CoderGirl MeetUp.
 
 1) Open Atom (the text editor you should have downloaded). Click File > Open and then navigate to your project folder.  
@@ -61,7 +62,7 @@ Complete the following sections of the KhanAcademy class:
 That’s it for now! You will be coming back to this project to keep practicing what you have been learning.
 
 
-*Assignment: Extra Practice With The Box Model*  
+#### Assignment: Extra Practice With The Box Model  
 **Read**: [ W3Schools Box Model Explanation ](http://www.w3schools.com/css/css_boxmodel.asp)  
 
 **Do**: CodePen Box Model Challenge  
