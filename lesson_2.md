@@ -42,14 +42,14 @@ For example, if you are working on a google document with a group. you might cop
 ### Course Work
 
 #### Assignment: Take HTML/CSS online course  
-**Do**: [ KhanAcademy - Intro to HTML/CSS: Making webpages ](https://www.khanacademy.org/computing/computer-programming/html-css)<br/>
-Complete the following sections of the KhanAcademy class:
-* Intro to HTML
-* Intro to CSS
-* More HTML tags
-* CSS text properties
-* CSS layout
-* More CSS selectors
+**Do**: [ KhanAcademy - Intro to HTML/CSS: Making webpages ](https://www.khanacademy.org/computing/computer-programming/html-css)  
+Complete the following sections of the KhanAcademy class:  
+- Intro to HTML  
+- Intro to CSS  
+- More HTML tags  
+- CSS text properties  
+- CSS layout  
+- More CSS selectors  
 
 #### Assignment: Update Your Online Portfolio  
 **Do**: Make It Your Own - Follow these steps to update the online portfolio project that we cloned to your computer during the CoderGirl MeetUp.
