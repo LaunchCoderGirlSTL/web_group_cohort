@@ -14,7 +14,18 @@ permalink: /lesson_4
 * Quick Talk - Visualizing Your Repository with GitK
 * Setting Up CodeSchool Accounts
 * Work Day
-* Activity - Setting Up Your Cat Project (if you haven't)
+* Activity - Setting Up Your Cat Project (if you haven't already, see below)
+
+#### Activity - Setting Up Your Cat Project (if you haven't already)
+1) Create a Project Folder: navigate to GitHub Folder (I believe it is located in your Documents Folder. Once there create a Folder to hold your project with the name project_1_cat_costumes (using underscores instead of spaces will help later when we are using the command line).
+
+2) Setup the Project Files: you are now going to setup your HTML and CSS files, but File Structure is important! Keeping things organized is not usually necessary for smaller project but it is good practice. When you start doing bigger projects, having a good folder structure is good for knowing where to locate things.  
+[Mozilla: Dealing With Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+
+3) Make Your Project a Git Repository
+Open your terminal… and navigate to the project you just created (your pwd should look like this: something/project_1_cat_costumes). Now run the [git init](https://git-scm.com/docs/git-init) command to make this project a git project so you can version control it.
+
+That is it! You are ready to start working on this project. Later we will add this project to your Github account.
 
 
 ### Course Work
