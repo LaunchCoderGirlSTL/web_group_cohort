@@ -28,9 +28,9 @@ permalink: /lesson_4
 
 #### Assignment: Keep Learning HTML/CSS
 **Do**: CodeSchool has some great HTML/CSS Courses if you feel like you need a more solid HTML/CSS foundation.
-I would recommend just taking CSS Cross-Country, if you completed the Khan Academy Course:
-[CodeSchool - Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)
-[CodeSchool - Front-end Formations](https://www.codeschool.com/courses/front-end-formations)
-[CodeSchool - CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)
+I would recommend just taking CSS Cross-Country, if you completed the Khan Academy Course:  
+[CodeSchool - Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)  
+[CodeSchool - Front-end Formations](https://www.codeschool.com/courses/front-end-formations)  
+[CodeSchool - CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)  
 
 [Home]( /web_group_cohort )
