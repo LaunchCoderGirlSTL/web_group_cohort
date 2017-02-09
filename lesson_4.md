@@ -17,29 +17,22 @@ permalink: /lesson_4
 * Activity - Setting Up Your Cat Project (if you haven't already, see below)
 
 #### Activity - Setting Up Your Cat Project (if you haven't already)
-1) Create a Project Folder: navigate to GitHub Folder (I believe it is located in your Documents Folder. Once there create a Folder to hold your project with the name project_1_cat_costumes (using underscores instead of spaces will help later when we are using the command line).
+1) Fork & Clone this project from GitHub:  
+[GitHub Cat Project](https://github.com/LaunchCoderGirlSTL/web_group_project_1)  
+Fork Instructions - go to the Github project you want to Fork and in the top right corner of the page, click Fork.  
+Clone Instructions - [how to clone](https://help.github.com/articles/cloning-a-repository/)
 
-2) Setup the Project Files: you are now going to setup your HTML and CSS files, but File Structure is important! Keeping things organized is not usually necessary for smaller project but it is good practice. When you start doing bigger projects, having a good folder structure is good for knowing where to locate things.  
-[Mozilla: Dealing With Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-
-3) Make Your Project a Git Repository
-Open your terminal… and navigate to the project you just created (your pwd should look like this: something/project_1_cat_costumes). Now run the [git init](https://git-scm.com/docs/git-init) command to make this project a git project so you can version control it.
-
-That is it! You are ready to start working on this project. Later we will add this project to your Github account.
+You are ready to start working on this project in the assignment below.
 
 
 ### Course Work
 
 #### Assignment: Build Cat Project  
 **Do**: Work on Your Cat Project!  
-
-1) Link the CSS File to your HTML: [Link CSS in HTML](http://www.w3schools.com/tags/tag_link.asp). Make sure you put in the correct "source path" to your css file. It is a local path (which we talked about at CoderGirl)
-
-2) Code the HTML and CSS - here are the design files: [Cat Project Design Files](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing). Make sure you start with the Desktop Version. We will be learning responsive design later.
+Code the HTML and CSS - The design files are located in your project file (find the design folder in web_group_projec_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
 
 #### Assignment: Keep Learning HTML/CSS
-**Do**: CodeSchool has some great HTML/CSS Courses if you feel like you need a more solid HTML/CSS foundation.
-I would recommend just taking CSS Cross-Country, if you completed the Khan Academy Course:  
+**Do**: CodeSchool has some great HTML/CSS Courses if you feel like you need a more solid HTML/CSS foundation. I would recommend just taking CSS Cross-Country, if you completed the Khan Academy Course:  
 [CodeSchool - Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)  
 [CodeSchool - Front-end Formations](https://www.codeschool.com/courses/front-end-formations)  
 [CodeSchool - CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)  
