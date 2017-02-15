@@ -21,6 +21,7 @@ permalink: /lesson_5
 
 #### Assignment: Read More About "Good" Code
 **Read**: You don't have to really read every word of this article, but definitely go through each example and think about what makes the code bad vs good.  
+[Shay Howe - Good Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 
 **Do**: After going through the article, clean up your Cat Project html and css files and get that code looking EXCELLENT. We will be PEER REVIEWING the code in class next week.
 
@@ -35,6 +36,8 @@ permalink: /lesson_5
 
 The design files are located in your project file (find the design folder in web_group_project_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
 
+#### Bored?!
+**Do** Remember that Portfolio project you worked on the first or second week? Start Wire Framing and creating the web page structure. Code School even has a design class you can check out to get started.
 
 
 [Home]( /web_group_cohort )
