@@ -8,23 +8,32 @@ permalink: /lesson_5
 ### This Lesson's Focus: Building a Responsive Web
 * Learning Responsive Web Practices
 * Build Mobile Cat Project
+* Writing EXCELLENT Code, What makes code "good"?
 
 
 ### At CoderGirl
-* Talk About WireFraming
-
+* Quick Talk: Writing EXCELLENT Code
+* Quick Talk: Wire Framing Helps
+* Quick Demo: Using Git "In-Practice" when Building Projects
+* Work Time
 
 ### Course Work
 
-#### Assignment: Keep Learning HTML/CSS
-**Do**: CodeSchool has some great HTML/CSS Courses if you feel like you need a more solid HTML/CSS foundation. I would recommend just taking CSS Cross-Country, if you completed the Khan Academy Course:  
-[CodeSchool - Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)  
-[CodeSchool - Front-end Formations](https://www.codeschool.com/courses/front-end-formations)  
-[CodeSchool - CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)  
+#### Assignment: Read More About "Good" Code
+**Read**: You don't have to really read every word of this article, but definitely go through each example and think about what makes the code bad vs good.  
 
-#### Assignment: Build Cat Project  
-**Do**: Work on Your Cat Project!  
-Code the HTML and CSS - The design files are located in your project file (find the design folder in web_group_project_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
+**Do**: After going through the article, clean up your Cat Project html and css files and get that code looking EXCELLENT. We will be PEER REVIEWING the code in class next week.
+
+
+#### Assignment: Learn Responsive Web Skills
+**Do**: Complete the CodeSchool responsive web class, Journey Into Mobile.  
+[CodeSchool - Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)  
+
+
+#### Assignment: Make Your Cat Project Responsive  
+**Do**: Now that you know how to make your web pages responsive, apply what you have learned to your Cat Project. There is a Mobile design image in the designs folder. By the time you are done, your cat project should look like the Desktop Version on Large Screens and the Mobile Version on small screens.   
+
+The design files are located in your project file (find the design folder in web_group_project_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
 
 
 
