@@ -55,11 +55,12 @@ permalink: /lesson_3
 #### Assignment: Need More Work? Want to Practice More HTML/CSS  
 **Do**: Start working on your Cat Project!  
 
-1) Should have forked and cloned this project from GitHub during CoderGirl, but if you haven't here is a link to the Project on GitHub: [GitHub Cat Project](https://github.com/LaunchCoderGirlSTL/web_group_project_1)
+1) Fork & Clone this project from GitHub:  
+[GitHub Cat Project](https://github.com/LaunchCoderGirlSTL/web_group_project_1)  
+Fork Instructions - go to the Github project you want to Fork and in the top right corner of the page, click Fork.  
+Clone Instructions - [how to clone](https://help.github.com/articles/cloning-a-repository/)
 
-2) Link the CSS File to your HTML: [Link CSS in HTML](http://www.w3schools.com/tags/tag_link.asp). Make sure you put in the correct "source path" to your css file. It is a local path (which we talked about at CoderGirl)
-
-3) Code the HTML and CSS - here are the design files: [Cat Project Design Files](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing). Make sure you start with the Desktop Version. We will be learning responsive design later.
+2) Code the HTML and CSS - The design files are located in your project file (find the design folder in web_group_project_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
 
 
 [Home]( /web_group_cohort )
