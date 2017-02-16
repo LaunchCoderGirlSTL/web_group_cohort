@@ -16,6 +16,7 @@ permalink: /lesson_5
 * Quick Talk: Wire Framing Helps
 * Quick Demo: Using Git "In-Practice" when Building Projects
 * Work Time
+* Git Push
 
 ### Course Work
 
