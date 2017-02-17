@@ -38,13 +38,13 @@ permalink: /lesson_5
 The design files are located in your project file (find the design folder in web_group_project_1 repo on your computer) or you can view them [here](https://drive.google.com/drive/folders/0B9ILOB0VrUJ5ODFvVTdhRWZiaHc?usp=sharing) on GoogleDrive. Make sure you start with the Desktop Version. We will be learning responsive design later to code the mobile version.
 
 #### Bored?!
-**Do**: Remember that Portfolio project you worked on the first or second week? CodeSchool even has a quick design class you can check out to get started...
+**Do**: Remember that Portfolio project you worked on the first or second week? CodeSchool even has a quick design class you can check out to get started:  
 [CodeSchool - Fundamentals Of Design](https://www.codeschool.com/courses/fundamentals-of-design)  
 
-**Read**: This article has some great advice as to what to put on your portfolio...  
+**Read**: This article has some great advice as to what to put on your portfolio:  
 [Tips on Creating a Portfolio](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/)  
 
-**Resourse to Use**:  
+**Some Resourses to Use**:  
 [Balsamiq - Wireframing & Prototyping](https://balsamiq.com/)  
 *(note: crystal sent out a free subscription to balsamiq)*   
 [Typecast - Exploring Fonts for Website](https://typecast.com/)  
