@@ -13,7 +13,8 @@ permalink: /lesson_6
 ### At CoderGirl
 * Quick Talk: Responsive Web Review
 * Work Time
-* TAKE SURVEY (if you haven't)
+* TAKE [SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSc8AtQlgVU7lHLmhvlZlwjh-sRdjo6z3MPw6S2ctQ8NX0emmA/viewform) (if you haven't)
+
 
 ### Course Work
 

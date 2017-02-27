@@ -24,9 +24,9 @@ This path is for people wanting to code websites. By the end of this path you wi
 * [Lesson 3](lesson_3)
 * [Lesson 4](lesson_4)
 * [Lesson 5](lesson_5)
+* [Lesson 6](lesson_6)
 
 ### Unit 2: Javascript & JQuery
-* [Lesson 6](lesson_6)
 * [Lesson 7](lesson_7)
 * [Lesson 8](lesson_8)
 * [Lesson 9](lesson_9)
@@ -70,4 +70,3 @@ This path is for people wanting to code websites. By the end of this path you wi
 ## Other Resources
 
 * [Style Guide](style_guide)
-
