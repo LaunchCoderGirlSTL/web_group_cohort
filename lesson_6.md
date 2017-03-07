@@ -57,7 +57,14 @@ permalink: /lesson_6
 
 **Some Resourses to Use**:  
 [Balsamiq - Wireframing & Prototyping](https://balsamiq.com/)  
-*(note: crystal sent out a free subscription to balsamiq)*   
+*note: CoderGirl cohort has a free subscription to balsamiq*  
+Here's how to use the free subscription:  
+1) Download: (https://balsamiq.com/)
+2) Register: Follow [These](https://support.balsamiq.com/installation/register/#registering-mockups-for-desktop) instruction to register with:  
+**License Name**: CoderGirl 2017  
+**License Key**: *ask Katie for it on Slack...*
+
+
 [Typecast - Exploring Fonts for Website](https://typecast.com/)  
 
 [Home]( /web_group_cohort )
