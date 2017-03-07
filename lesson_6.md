@@ -59,8 +59,8 @@ permalink: /lesson_6
 [Balsamiq - Wireframing & Prototyping](https://balsamiq.com/)  
 *note: CoderGirl cohort has a free subscription to balsamiq*  
 Here's how to use the free subscription:  
-1) Download: (https://balsamiq.com/)
-2) Register: Follow [These](https://support.balsamiq.com/installation/register/#registering-mockups-for-desktop) instruction to register with:  
+1) Download: from their [website](https://balsamiq.com/)  
+2) Register: follow [these](https://support.balsamiq.com/installation/register/#registering-mockups-for-desktop) instruction to register with:  
 **License Name**: CoderGirl 2017  
 **License Key**: *ask Katie for it on Slack...*
 
