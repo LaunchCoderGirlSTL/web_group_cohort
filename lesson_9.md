@@ -46,10 +46,10 @@ These steps should get you started. Your final cake project should be able to to
 
 
 #### Assignment: Cake Project - Shrink & Fix Nav Bar on Scroll
-**Do**: There is an example of what this is suppose to look like in the design files. Fixing the navbar can be done with css, however, shrinking and fixing is a different thing. Google will be your friend. Outline for plan of action:  
-1) js - create event that triggers when the window scrolls
-2) js - use css transitions to shrink the navbar...
-3) js - use change css to make navbar fixed...
+**Do**: There is an example of what this is suppose to look like in the design files. Fixing the navbar can be done with css, however, shrinking and fixing is a different thing. Google will be your friend. Outline for plan of action:    
+1) js - create event that triggers when the window scrolls  
+2) js - use css transitions to shrink the navbar...  
+3) js - use change css to make navbar fixed...  
 
 
 
