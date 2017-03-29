@@ -17,14 +17,15 @@ permalink: /lesson_7
 
 ### Course Work
 
-#### Assignment: Learn A Little Javascript  
+
+#### Assignment: Learn A Little Javascript - Part 1  
 **Do**: Learn about variables and link a javascript file to your html file in the first CodeSchool Javascript class.  
 [CodeSchool - Javascript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
 
-#### Assignment: Learn jQuery
-**Do**: Complete the first CodeSchool jQuery course.  
-[CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
+#### Assignment: Learn More Javascript - Part 2  
+**Do**: Learn about loops, conditionals, functions and arrays in the second CodeSchool Javascript class.  
+[CodeSchool - Javascript Road Trip Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 
 
 #### Assignment: Project 2 - Cake Project *(continued)*

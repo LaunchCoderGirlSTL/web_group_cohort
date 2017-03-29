@@ -11,11 +11,16 @@ permalink: /lesson_9
 
 
 ### At CoderGirl
-* Quick Talk: jQuery + Javascript in Practice
+* Quick Talk: How to use JS and jQuery tools to problem solve
 * Work Time
 
 
 ### Course Work
+
+
+#### Assignment: Use Console In Web Dev Tools
+**Do**: Learn about how you can interact with your javascript in the 3 chapter of Web Dev Tools CodeSchool course.  
+[CodeSchool - Learn Web Dev Tools - Chapter 3](http://discover-devtools.codeschool.com/chapters/3/challenges/1?locale=en)
 
 
 #### Assignment: Cake Project - Alternating Tabs on Menu

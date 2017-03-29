@@ -12,11 +12,23 @@ permalink: /lesson_8
 
 
 ### At CoderGirl
-* Quick Talk: Basic Debugging With Javascript (maybe tonight? maybe next week)
+* Quick Talk: Functions & Objects (intro)
+* Quick Talk: Breaking Down jQuery syntax
 * Work Time
 
 
 ### Course Work
+
+
+#### Assignment: Learn Even More Javascript - Part 3
+**Do**: Learn about functions as expressions, closures and objects.  
+[CodeSchool - Javascript Road Trip Part 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
+
+
+#### Assignment: Learn jQuery
+**Do**: Complete the first CodeSchool jQuery course.  
+[CodeSchool - Try jQuery](https://www.codeschool.com/courses/try-jquery)
+
 
 #### Assignment: Paint A Box - a Javascript and jQuery Challenge
 **Do**: Sick of taking CodeSchool class after CodeSchool class? Complete this challenge for a break. There are TODO comments written in the JS code for each task that you need to complete. To get started, create a CodePen account (if you haven't already), Fork the project (by clicking the button), and start coding. Don't forget to Save every once in a while. Good luck!  
@@ -24,15 +36,6 @@ permalink: /lesson_8
 
 *Side Note: In one task you need to use a javascript conditional. If you haven't take the 2nd Javascript class yet, no worries! You have already learned the comparison operator, ==, and can use this handy resource to get the proper syntax for a conditional:  
 [JS Resource](https://www.javascript.com/learn/javascript/conditionals)*
-
-
-#### Assignment: Learn More Javascript  
-**Do**: Learn about loops, conditionals, functions and arrays in the second CodeSchool Javascript class.  
-[CodeSchool - Javascript Road Trip Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
-
-#### Assignment: Use Console In Web Dev Tools
-**Do**: Learn about how you can interact with your javascript in the 3 chapter of Web Dev Tools CodeSchool course.  
-[CodeSchool - Learn Web Dev Tools - Chapter 3](http://discover-devtools.codeschool.com/chapters/3/challenges/1?locale=en)
 
 
 #### Assignment: Project 2 - Cake Project *(continued)*
