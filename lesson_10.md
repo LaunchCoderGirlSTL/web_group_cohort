@@ -17,7 +17,7 @@ permalink: /lesson_10
 
 #### Assignment: Cat Lady Scale Challenge
 **Do**: See directions in the GitHub Project...  
-[Cat Lady Scale Challenge](https://github.com/ktmathews89/cat_lady_scale)
+[Cat Lady Scale Challenge](https://github.com/LaunchCoderGirlSTL/cat_lady_scale)
 
 
 [Home]( /web_group_cohort )
