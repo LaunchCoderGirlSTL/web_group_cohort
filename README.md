@@ -31,6 +31,7 @@ This path is for people wanting to code websites. By the end of this path you wi
 * [Lesson 8](lesson_8)
 * [Lesson 9](lesson_9)
 * [Lesson 10](lesson_10)
+* [Lesson 11](lesson_11)
 
 ### Unit 3: Frameworks
 
