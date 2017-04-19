@@ -11,6 +11,7 @@ permalink: /lesson_10
 
 ### At CoderGirl
 * Work Time
+* Quick Talk/Activity: Reading Code
 
 
 ### Course Work
