@@ -93,6 +93,7 @@ Read this article about the [JSON format](https://developer.mozilla.org/en-US/do
 
 **STEP 2**  
 js - read the json file and store it in a javascript variable.  It should come in as an array of items. jQuery provides a useful function called [getJson](http://api.jquery.com/jquery.getjson/) to read a json file and turn it into a js object.  
+*Note* if you are using chrome and trying to open your json file locally, you will get an error about Cross Origin Requests.  To avoid this error, load the json file from github servers!  You can use this link "https://raw.githubusercontent.com/[YOUR GITHUB USERNAME]/web_group_project_2/master/inventory.json" instead of the local "./inventory.json" to load the json.
 
 **STEP 3**  
 js - figure out how to loop over the array of all inventory items.  We need to determine if each item is either a 'cake' or something else. Sort each item into different arrays, one array for cakes and one array for other things. The [$.each](http://api.jquery.com/jquery.each/) function may be useful here, or you can use a more traditional javascript for loop to loop over each item in the array.  
