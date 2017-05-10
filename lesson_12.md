@@ -17,7 +17,7 @@ See Instructions [here](https://docs.google.com/presentation/d/1mmRgdUkF7gyyZuQx
 
 #### Assignment: Cat Lady Scale Challenges  
 Add the following new feature to the Cat Lady Scale project.  
-<img width="500" src="/images/cat_lady_scale_new_features.png" />
+<img width="100%" src="images/cat_lady_scale_new_features.png" />
 
 **Feature 1 - The Scale**  
 In the picture above you will notice a scale displayed below the "Your Current Cat Lady Status" section. Add this scale to your project. As the user's cat lady status changes move the colored dot and the bolded text to reflect the current cat lady scale status.
