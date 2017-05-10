@@ -32,10 +32,11 @@ This path is for people wanting to code websites. By the end of this path you wi
 * [Lesson 9](lesson_9)
 * [Lesson 10](lesson_10)
 * [Lesson 11](lesson_11)
+* [Lesson 12](lesson_12)
 
 ### Unit 3: Frameworks
 
-* Coming Soon
+* [Lesson 13](lesson_13)
 
 ### Unit 4: Project Prep
 
