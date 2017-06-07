@@ -37,6 +37,7 @@ This path is for people wanting to code websites. By the end of this path you wi
 ### Unit 3: Frameworks
 
 * [Lesson 13](lesson_13)
+* [Lesson 14](lesson_14)
 
 ### Unit 4: Project Prep
 

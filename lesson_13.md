@@ -23,10 +23,5 @@ Remember that class list demo we did in class... To demonstrate "Object-Oriented
 
 **Your Goal**: to change the Student class from the Class List Demo into an ES2015 class... and feel free to add some css... make it pretty... make it better... add more functionality (like another class Professor?)... go crazy.
 
-#### Assignment: Take a React Course
-**Do:** Now you are ready to start learning React.  
-[CodeSchool - Powering Up with React](https://www.codeschool.com/courses/powering-up-with-react)
-
-
 
 [Home]( /web_group_cohort )
