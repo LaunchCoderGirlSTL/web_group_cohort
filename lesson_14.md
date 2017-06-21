@@ -117,22 +117,22 @@ Again make sure it extends the React.Component base class... implement the rende
 In the card component, pass the Card component 2 props... I bet you can guess what they are! (title and description)
 
 Then update the Card Components render function to use those props…
-calling out `{this.props.title} and {this.props.description}
+calling out `{this.props.title}` and `{this.props.description}`
 
 **4) Use Card Data Array to display the cards**  
-In the CardColumn component, create a _getCards function with a cardList array with card objects that have id, title, and description properties.
+In the CardColumn component, create a `_getCards` function with a cardList array with card objects that have id, title, and description properties.
 
 > Typically, in a React Application you would make an ajax request to the backend, where the cards would be queried and passed back to you on the FrontEnd. For now, we are just creating a cardList array to simulate the information we would get back from the ajax request.
 
-> Wondering why this function starts with an underscore? The _functionName is just a naming convention that React uses to indicate that the function should only be accessible INSIDE the Component it is defined in.
+> Wondering why this function starts with an underscore? The `_functionName` is just a naming convention that React uses to indicate that the function should only be accessible INSIDE the Component it is defined in.
 
 **5) Map Object array to JSX arrays for display purposes**  
-Now in the _getCards function, map over the cardList array and return JSX `<Card />` components with the props key, title, description.
+Now in the `_getCards` function, map over the cardList array and return JSX `<Card />` components with the props key, title, description.
 
 > The key prop is used to make each card component unique. This becomes helpful when the user goes to interact with a card, like clicks a button on it, React will have a way to determine which card is clicked based on this key id.
 
-**6) Use  _getCards() in CardColumn render()**  
-The _getCards() function will return a list of Card components for us. So we can replace all the `<Card />` in the CardColumn render function with the returned results from the _getCards function.
+**6) Use _getCards() in CardColumn render()**  
+The `_getCards()` function will return a list of Card components for us. So we can replace all the `<Card />` in the CardColumn render function with the returned results from the `_getCards` function.
 
 **7) Compile your React Code!**
 Open your terminal, navigate to your project and run `gulp build`. Refresh your index.html in your web browser! See if something is displaying!
@@ -141,7 +141,71 @@ Open your terminal, navigate to your project and run `gulp build`. Refresh your 
 #### CodeSchool Level 3 - Component State
 Complete Level 3 of React Fundamentals courses...
 
-#### React Challenge 3 -
+#### React Challenge 3 - Implement the Card States
+So in this React Level it talked about direct vs indirect DOM manipulation. Direct DOM manipulation is what we have been doing with jQuery, we select and change the actual html elements or the actual CSS.
+
+React uses indirect DOM manipulation. React components use “states” to describe things that might change in a component or to describe data that might change over time.
+> Direct vs Indirect DOM manipulation  
+> Direct - like jQuery -> directly change html elements and css properties with JS and/or jQuery  
+> Indirect - like React -> modify state with javascript -> React notices updated state -> so then it updates the DOM for you   
+
+Components use “states” to describe things that might change in a component… data that might change over time
+
+Can you think of a “state” that might helpful in determining whether or not our card should show the green > button?
+
+We are going to add 2 states to our card...  
+
+STATE: complete (boolean)  
+_goal:_ if complete is false show the green arrow > button, and if it is true do not show the button.  
+_action:_ the green arrow > button should mark a card complete  
+
+STATE: archive (boolean)  
+_goal:_ if archive is false show the card like usual, if archive is true do NOT show the card.  
+_action:_ the red x button should mark a card archived  
+
+Let's get started.
+
+**1) Initialize the State in the Constructor**  
+First we need to create a constructor for our card class. It will need:  
+-- a call to the parent constructor with `super();`  
+> we must call super() function to make sure it’s parent constructor is called first. After all, a child can’t be created before a parent!
+
+-- to initialize the card components state object `this.state = {};`
+
+> "this" keyword refers to the component in which you are using it in...
+
+-- add the complete state (I'll let you guess at what the initial boolean value should be)
+
+
+**2) Updating the State**  
+now we need function that updates the state we just initialized
+-- create a `_markComplete` function that updates the card’s complete state to TRUE.
+
+> Remember to use the this.setState({}) function to update the state. We use this function instead of directly modifying the components state to trigger a certain response from React. Using the setState function tells the React Component that it has to re-render the Component. If we just modified this.state directly, we would lose this behavior.
+
+> You might be wondering where this function comes from? Our card class “inherits” the React.Component class… this class holds a bunch of functions that any react component would need. setState() is just one of them. You can checkout other common functions and behaviors that React.Component brings to each defined class [here](https://facebook.github.io/react/docs/react-component.html)
+
+**3) Connecting a User Action to Change State**  
+Now we can use the `_markComplete` function when the user clicks the green arrow button...  
+-- add an `onClick` attribute that calls the `_markComplete` function on to the green arrow button element in `render()`  
+
+> don’t forget to use .bind(this) on the function… if you are wondering about this whole binding thing, [this article](https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/) does a pretty good job of explaining it.
+
+**4) Updating Card render based on state**
+Now we are ready to change the Card’s appearance based on the complete state. We want to hide the green arrow button if the card is already marked complete.  
+
+-- In the render section, create a variable called `completeButton`, if card is not complete, set it to the green arrow JSX.
+
+-- Use the new `completeButton` variable in the returned JSX code block.
+
+**5) CHECK RESULTS! remember to gulp build.**
+If there are compile errors, you will see them printed in the console whern you run `gulp build`.
+
+**6) Repeat steps for the ARCHIVE state**  
+-- initialize in constructor  
+-- create a function to update that state  
+-- connect the function to a user action  
+-- change how the card renders based on the archive state (hide the card completely)
 
 
 
