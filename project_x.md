@@ -16,4 +16,4 @@ permalink: /project_SERIAL
 ### Do On Your Own
 *
 
-[Home]( /project_track )
+[Home]( /web_group_cohort/project_track )
