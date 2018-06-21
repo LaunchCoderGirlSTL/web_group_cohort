@@ -1,43 +1,66 @@
+---
+title: Project Track
+permalink: /project_track
+---
+
 # Welcome
 
 ## Intro
 
-Welcome to CoderGirl's Front-End Web Developer learning plan!
+Welcome to CoderGirl's Front-End Web Developer project track!
 
-This path is for people wanting to code websites. By the end of this path you will have...
+Here you will continue learning Javascript, as well as learn Angular, Bootstrap, and how to get a project strated. The goal of this track is to complete your LaunchCode application project.
 
-* Learned 3 Programming Languages - HTML, CSS, Javascript
-* Learned a couple of other tools for Building the Web (Version Control, Frameworks and Development Tools)
-* Built 3 Websites
-* Built an Online Portfolio for Yourself
+### Approach & Expectations
 
-[Read More](intro)
+We will present the same information several times before you will be expected to actually comprehend it all and really understand it, this is normal even after you leave CoderGirl. 
 
+You are also expected to work 10-15 hours outside of the meetups, people who have done really well have put in up to 20-25 hours a week.
 
-## Lessons
+[Read More](project_intro)
 
-### Overview
-* [Lesson 1](lesson_1)
+## Code Learning
 
-### Unit 1: HTML & CSS
-* [Lesson 2](lesson_2)
-* [Lesson 3](lesson_3)
-* [Lesson 4](lesson_4)
-* [Lesson 5](lesson_5)
-* [Lesson 6](lesson_6)
+### Javascript
+* [Javascript Koans](koans)
 
-### Unit 2: Javascript & JQuery
-* [Lesson 7](lesson_7)
-* [Lesson 8](lesson_8)
-* [Lesson 9](lesson_9)
-* [Lesson 10](lesson_10)
-* [Lesson 11](lesson_11)
-* [Lesson 12](lesson_12)
+### Angular
 
-### Unit 3: Frameworks
+Angular lessons are using Angular Boot Camp's open source repository. [ABC on Github](https://github.com/angularbootcamp/abc)
 
-* [Project Track](project_track)
+#### Unit 1: Angular Basics
+* [Intro to Angular](project_100)
+* [Data Binding](project_101)
+* [Template Events](project_102)
+* [Multiple Components](project_103)
+* [Modules](project_104)
+* [Routing and Lazy Loading](project_105)
 
-## Other Resources
+#### Unit 2: Components
+* [Starting Your Project](project_200)
+* [Component Hierarchy](project_201)
+* [Template Conditionals and Loops](project_202)
+* [Built-in Pipes](project_203)
+* [Class and Style Bindings](project_204)
+* [Component Inputs](project_205)
+* [Component Events](project_206)
 
-* [Style Guide](style_guide)
+#### Unit 3: Get Data!
+* [Dependency Injection and HTTP](project_300)
+* [Injecting Custom Services](project_301)
+* [Observables](project_302)
+* [Async Pipe](project_303)
+
+#### Unit 4: State Management
+* [Reactive Forms](project_400)
+* [Component State](project_401)
+* [Nested Routing](project_402)
+* [Route Parameters](project_403)
+* [Route Driven Data Loading](project_404)
+* [State with Services](project_405)
+* [Ngrx Store](project_406)
+* [Ngrx Store Immutability](project_407)
+* [Ngrx Effects](project_408)
+* [Smart View Component Pattern](project_409)
+* [Observable Composing and Chaining](project_410)
+* [Filtered List via Observable](project_411)
