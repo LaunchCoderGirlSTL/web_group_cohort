@@ -40,7 +40,7 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 #### Unit 2: Components
 * coming soon
-<!--
+<!---
 * [Starting Your Project](project_200)
 * [Component Hierarchy](project_201)
 * [Template Conditionals and Loops](project_202)
@@ -48,20 +48,20 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Class and Style Bindings](project_204)
 * [Component Inputs](project_205)
 * [Component Events](project_206)
--->
+--->
 
 #### Unit 3: Get Data!
 * coming soon
-<!--
+<!---
 * [Dependency Injection and HTTP](project_300)
 * [Injecting Custom Services](project_301)
 * [Observables](project_302)
 * [Async Pipe](project_303)
--->
+--->
 
 #### Unit 4: State Management
 * coming soon
-<!--
+<!----
 * [Reactive Forms](project_400)
 * [Component State](project_401)
 * [Nested Routing](project_402)
@@ -74,13 +74,13 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Smart View Component Pattern](project_409)
 * [Observable Composing and Chaining](project_410)
 * [Filtered List via Observable](project_411)
--->
+--->
 ## Projects
 
 * [Pick your Project](pick_your_project)
 * more coming soon
-<!--
+<!---
 * [Determine your Users](determine_your_users)
 * [Wireframes](wireframs)
 * [CSS Frameworks](css_frameworks)
--->
+--->
