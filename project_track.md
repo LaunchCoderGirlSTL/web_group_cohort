@@ -24,7 +24,7 @@ You are also expected to work 10-15 hours outside of the meetups, people who hav
 ### Javascript
 * [Javascript Koans](koans)
 
-### Angular
+## Angular
 
 Angular lessons are using Angular Boot Camp's open source repository. [ABC on Github](https://github.com/angularbootcamp/abc)
 
@@ -64,3 +64,10 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Smart View Component Pattern](project_409)
 * [Observable Composing and Chaining](project_410)
 * [Filtered List via Observable](project_411)
+
+## Projects
+
+* [Pick your Project](pick_your_project)
+* [Determine your Users](determine_your_users)
+* [Wireframes](wireframs)
+* [CSS Frameworks](css_frameworks)
