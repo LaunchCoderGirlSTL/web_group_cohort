@@ -11,7 +11,7 @@ permalink: /project_102
 * What DOM events are and how to react to them
 
 ### At CoderGirl
-* [ABC Lesson 102)(https://stackblitz.io/github/AngularBootCamp/template-events)
+* [ABC Lesson 102](https://stackblitz.io/github/AngularBootCamp/template-events)
 
 ### Do On Your Own
 1. Catch two more events triggered by user input. You can see a list
