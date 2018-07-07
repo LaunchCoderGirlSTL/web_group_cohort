@@ -10,7 +10,7 @@ permalink: /koans
 
 ### At CoderGirl
 * Go over how to do the Koans
-* Review the 
+* Review the [Koans](https://github.com/LaunchCoderGirlSTL/javascript-koans) and get started.
 
 ### Do On Your Own
 * Complete the Koans. You will have two weeks.
