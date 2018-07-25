@@ -14,6 +14,12 @@ permalink: /project_101
 * [ABC Lesson 101](https://stackblitz.io/github/AngularBootCamp/data-binding)
 
 ### Do On Your Own
+
+#### Reading
+
+[https://www.datchley.name/es6-promises/](https://www.datchley.name/es6-promises/)
+
+#### Workshop
 1. Add a few more fields in the component class.
     * Anniversary/hire date
     * Job Title
