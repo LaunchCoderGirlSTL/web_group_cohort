@@ -16,7 +16,7 @@ permalink: /project_102
 ### Do On Your Own
 1. Catch two more events triggered by user input. You can see a list
    of available events here:
-   https://developer.mozilla.org/en-US/docs/Web/Events
+   [https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
     * When you press down on the "Clock In" button, have the text say "Clocking in as an employee/manager" as appropriate
     * When you press down on the "Clock Out" button, have the text say "Clocking in as an employee/manager" as appropriate
     * When you click on a day in the schedule, have the times at the bottom also show the day. Example: "Wednesday: 9:00-3:00"
