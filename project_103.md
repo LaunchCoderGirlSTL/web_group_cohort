@@ -8,7 +8,7 @@ permalink: /project_103
 ## Multiple Components
 
 ### This Lesson's Focus
-* What components are and how to render them on the page
+* What components are, how to render them on the page, and how to use a component in another component
 
 ### At CoderGirl
 * [ABC Lesson 103](https://stackblitz.io/github/AngularBootCamp/multiple-components)
