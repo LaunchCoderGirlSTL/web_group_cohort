@@ -8,7 +8,7 @@ permalink: /project_104
 ## Modules
 
 ### This Lesson's Focus
-* Learn what modules are and how they group components
+* How to use components from one module in another module
 
 ### At CoderGirl
 * [ABC Lesson 104](https://stackblitz.io/github/AngularBootCamp/modules)
