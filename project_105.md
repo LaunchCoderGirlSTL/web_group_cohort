@@ -14,6 +14,7 @@ permalink: /project_105
 * [ABC Lesson 105](https://stackblitz.io/github/AngularBootCamp/routing-and-lazy-loading)
 
 ### Do On Your Own
+#### Add a new route to the example app
 * Make a new NgModule
     * This will be a Knowledge Base module
 * Make a new component
@@ -21,5 +22,8 @@ permalink: /project_105
 * Add the new component to the declarations of the new NgModule
 * Add a lazy-loaded route to the new component
 * Add a link to navigate to the new route
+
+#### Add routing to a new Angular project
+* Follow the instructions [here](https://angular-wjnb41.stackblitz.io/)
 
 [Home]( /web_group_cohort/project_track )
