@@ -39,9 +39,9 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 
 #### Unit 2: Components
-* coming soon
 
- <!--  * [Starting Your Project](project_200) -->
+* [Starting Your Project](project_200) 
+* more coming soon
  <!--  * [Component Hierarchy](project_201) -->
  <!--  * [Template Conditionals and Loops](project_202) -->
  <!--  * [Built-in Pipes](project_203) -->
