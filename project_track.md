@@ -78,8 +78,8 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 ## Projects
 
 * [Pick your Project](pick_your_project)
+* [Wireframing](wireframing)
 * more coming soon
 
 <!-- * [Determine your Users](determine_your_users) -->
-<!-- * [Wireframes](wireframs) -->
 <!-- * [CSS Frameworks](css_frameworks) -->
