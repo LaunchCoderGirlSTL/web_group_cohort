@@ -24,9 +24,12 @@ In your codergirl-app:
     * `ng generate component dashboard/videoPlayer`
     * `ng generate component dashboard/statFilters`
 * Setup routing
-    * Your `video-dashboard` component should be the root of your application. Refer to lesson 105 for a reminder how to do this. Make sure the magic string is working properly.
-    * Clean up the `app.component.html` so it is just showing your routing component
-* Add each of the components inside your `video-dashboard.component.html` like in the stackblitz example
+    * You should have one real route called `dashboard`. If the user tries to go to the "empty route"(i.e. `path: ''`), they should be redirected to "/dashboard." 
+    * The dashboard module should load the DashboardComponent for its empty route.
+    * Refer to lesson 105 and the StackBlitz homework for a reminder how to do this. Make sure the magic string in app-routing.module.ts is formed properly.
+    * Clean up the `app.component.html` so it is just showing your router outlet.
+* Use an instance of each of the other three components inside your `video-dashboard.component.html`
+
 
 
 [Home]( /web_group_cohort/project_track )
