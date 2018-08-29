@@ -24,6 +24,6 @@ permalink: /project_105
 * Add a link to navigate to the new route
 
 #### Add routing to a new Angular project
-* Follow the instructions [here](https://angular-wjnb41.stackblitz.io/)
+* Follow the instructions [here](https://stackblitz.com/edit/codergirl-homework-routing)
 
 [Home]( /web_group_cohort/project_track )
