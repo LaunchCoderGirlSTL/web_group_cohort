@@ -22,20 +22,22 @@ permalink: /project_200
     1. Angular Language Service
     1. EditorConfig for VS Code
     1. Auto Rename Tag
-2. `npm install -g @angular/cli`
-3. `ng -v`
-4. `ng new codergirl-app --prefix cg --routing`
-5. `npm start`
-6. Navigate to `http://localhost:4200` in your browser
-7. Push project to Github (it is already a git repo)
-8. Get a Heroku account [https://www.heroku.com/](https://www.heroku.com/)
-9. Create a new node project
-10. Hook up to your GitHub project
-11. Deploy
+1. `npm install -g @angular/cli`
+1. `ng -v` to make sure the CLI is installed
+1. `ng new codergirl-app --prefix cg --routing`
+1. `cd codergirl-app`
+1. `npm start`
+1. Navigate to `http://localhost:4200` in your browser
+1. Create a new repo on GitHub and push project (it is already a git repo)
+1. Deploy project on Heroku
+    1. Get a Heroku account [https://www.heroku.com/](https://www.heroku.com/)
+    1. Create a new node project
+    1. Hook up to your GitHub project
+    1. Deploy
 
 ### Notes
 `assets/ `
-* your static files
+* Your static files
 
 `environments/`
 * Your environment configuration, only thing there is a flag for production mode. Open the console to see that it’s running in dev mode, make sure not to ship dev to production (on Heroku, check that it’s not there). Development mode give some extra functionality for checking for errors, and also includes sourcemaps. 
