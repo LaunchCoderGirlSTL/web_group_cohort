@@ -42,9 +42,10 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 * [Starting Your Project](project_200)
 * [Component Hierarchy](project_201)
+* [Template Conditionals and Loops](project_202)
 
 * more coming soon
- <!--  * [Template Conditionals and Loops](project_202) -->
+ 
  <!--  * [Built-in Pipes](project_203) -->
  <!--  * [Class and Style Bindings](project_204) -->
  <!--  * [Component Inputs](project_205) -->
