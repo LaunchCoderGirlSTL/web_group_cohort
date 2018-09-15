@@ -33,47 +33,36 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Data Binding](project_101)
 * [Template Events](project_102)
 * [Multiple Components](project_103)
-* [Modules](project_104)
-* [Routing and Lazy Loading](project_105)
-
+* [Modules](project_104) <!-- only needed for lazy loading, move to later next time -->
+* [Routing and Lazy Loading](project_105) <!-- move to later next time -->
+<!-- * routing without lazy loading, next time -->
 
 
 #### Unit 2: Components
 
 * [Starting Your Project](project_200)
-* [Component Hierarchy](project_201)
+* [Component Hierarchy](project_201) <!-- just needed for video app,  just go through the workshop -->
 * [Template Conditionals and Loops](project_202)
 * [Built-in Pipes](project_203)
 * [Class and Style Bindings](project_204)
-* [Component Inputs](project_205)
-* more coming soon
- <!--  * [Component Events](project_206) -->
 
 
 #### Unit 3: Get Data!
 * coming soon
 
-<!-- * [Dependency Injection and HTTP](project_300) -->
-<!-- * [Injecting Custom Services](project_301) -->
+<!-- * [Dependency Injection and HTTP](project_300)-->
+<!-- * interviewing skills -->
+
+<!-- * [Injecting Custom Services](project_301)  -->
 <!-- * [Observables](project_302) -->
 <!-- * [Async Pipe](project_303) -->
 
+<!-- * [Component Inputs](project_205) -->
 
-#### Unit 4: State Management
-* coming soon
+<!-- * [Component Events](project_206) -->
 
-<!-- * [Reactive Forms](project_400) -->
-<!-- * [Component State](project_401) -->
-<!-- * [Nested Routing](project_402) -->
-<!-- * [Route Parameters](project_403) -->
-<!-- * [Route Driven Data Loading](project_404) -->
-<!-- * [State with Services](project_405) -->
-<!-- * [Ngrx Store](project_406) -->
-<!-- * [Ngrx Store Immutability](project_407) -->
-<!-- * [Ngrx Effects](project_408) -->
-<!-- * [Smart View Component Pattern](project_409) -->
-<!-- * [Observable Composing and Chaining](project_410) -->
-<!-- * [Filtered List via Observable](project_411) -->
+<!-- * [Reactive Forms](project_400) do this-->
+
 
 ## Projects
 
@@ -81,5 +70,4 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Wireframing](wireframing)
 * more coming soon
 
-<!-- * [Determine your Users](determine_your_users) -->
 <!-- * [CSS Frameworks](css_frameworks) -->
