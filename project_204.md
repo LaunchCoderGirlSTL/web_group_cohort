@@ -17,5 +17,10 @@ permalink: /project_204
 * Use what you have learned to add some styles to your video site.
   * Add some colors to your elements
   * Add some page layout, use your flexbox knowledge
+* Watch the following videos for next week:
+  * [How the internet works](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+  * [Asynchronous JS](https://www.youtube.com/watch?v=YxWMxJONp7E)
+  * [Ajax](https://www.youtube.com/watch?v=h0ZUpPiV1ac)
+
 
 [Home]( /web_group_cohort/project_track )
