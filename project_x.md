@@ -11,7 +11,8 @@ permalink: /project_SERIAL
 *
 
 ### At CoderGirl
-* [ABC Lesson SERIAL]()
+
+* [ABC Lesson SERIAL]() (_StackBlitz_)
 
 ### Do On Your Own
 *

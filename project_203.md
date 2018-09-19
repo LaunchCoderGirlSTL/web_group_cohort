@@ -11,9 +11,10 @@ permalink: /project_203
 * Help to format data for the DOM using Built-in Pipes
 
 ### At CoderGirl
-* [ABC Lesson 203](https://stackblitz.io/github/AngularBootCamp/built-in-pipes)
+*  [ABC Lesson 203](https://stackblitz.io/github/AngularBootCamp/built-in-pipes) (_StackBlitz_)
 
 ### Do On Your Own
+In your _VSCode_ project
 * Display the date uploaded for each of the videos as a `medium date`
 * See what happens when you use the different format options
 
