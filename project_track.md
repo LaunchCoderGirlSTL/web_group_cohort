@@ -50,7 +50,7 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 #### Unit 3: Get Data!
 * coming soon
 
-<!-- * [Dependency Injection and HTTP](project_300)-->
+[Dependency Injection and HTTP](project_300)
 <!-- * interviewing skills -->
 
 <!-- * [Injecting Custom Services](project_301)  -->
