@@ -48,7 +48,6 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 
 #### Unit 3: Get Data!
-* coming soon
 
 [Dependency Injection and HTTP](project_300)
 <!-- * interviewing skills -->
@@ -63,6 +62,7 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 <!-- * [Reactive Forms](project_400) do this-->
 
+* More Coming Soon
 
 ## Projects
 
