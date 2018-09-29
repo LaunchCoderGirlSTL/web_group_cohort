@@ -1,6 +1,6 @@
 ---
 title: Deploy to Heroku
-permalink: /project_deploy
+permalink: /deploy_to_heroku
 ---
 
 # Deploy to Heroku
@@ -16,6 +16,7 @@ permalink: /project_deploy
     * you do not need to add a pipeline
 * Once you create the app, it will take you to the `Deploy` tab
     * Select the `GitHub` deployment method and connect your `Heroku` account to your `GitHub` account
+      * there will appear another section with a block of text telling you what it will do and a `Connect to Github` button. You will see another window pop up, follow the instructions to connect.
     * Search for your repository to connect and hit the `Connect` button
     * In the next section, click the `Enable Automatic Deploys` button, this will automatically deploy your application each time you push to `GitHub`
     * This has now set up your application to deploy via `Heroku`, now let's get your app configured to be able to deploy.
@@ -25,9 +26,9 @@ You need to make a few changes to get your application hosted on `Heroku`: setti
 
 ### Setting up your express server
 
-In the terminal, run `npm install --save express`. This will add `express` to serve your static Angular application.
+In the terminal in your application directory, run `npm install --save express`. This will add `express` to serve your static Angular application.
 
-Next, you want to add a file called `server.js` in the root of your project (next to your `package.json` file), and paste in the folling content:
+Next in VSCode, you want to add a file called `server.js` in the root of your project (next to your `package.json` file), and paste in the folling content:
 ```
 // server.js
 const express = require('express');
@@ -86,6 +87,21 @@ This is doing a few things:
 * In order to start you application, instead of running `npm start` you will need to run `npm run local`, this is because `Heroku` will be running `npm start` which is now using your express server, which will not run properly on your computer, since is will forse an `https` connection, and also won't live reload, so you don't want to use that anyway
 * It is adding a `heroku-postbuild` step to build your application when you deploy, so that the express server can serve your application
 
+## Setup your Heroku engines
+
+In your `package.json` file, you will need to add a section to tell `Heroku` what engines to use. Add this section under your `"scripts"` section.
+
+```
+"engines": {
+    "node": "<node version>",
+    "npm": "<npm version>"
+},
+```
+
+In your terminal in your project directory run the following things to fill in the info above:
+* run `node --version` and replace`<node version>` above with that output.
+* run `npm --version` and replace `<npm version>` above with that ouput.
+
 ## Changing Angular's build location
 
 The last thing we need to change is where you application is being built to so the express server can get to it.
@@ -96,8 +112,10 @@ In your `angular.json` file, search for `outputPath` and change that from `dist/
 Now that you have made all these changes, you should have the following changed files:
 * package.json
 * package-lock.json
-* server.js
 * angular.json
+
+And one new file
+* server.js
 
 Commit and push to `GitHub`, and head back to `Heroku`. On the overview tab, you should see that you have a running build. Once that is done, click on `Open app` to view your application. This will take a few seconds for you application to wake up, but give it time. You should now see your application running.
 

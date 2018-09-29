@@ -68,6 +68,7 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 * [Pick your Project](pick_your_project)
 * [Wireframing](wireframing)
+* [Deploying to Heroku](deploy_to_heroku)
 * more coming soon
 
 <!-- * [CSS Frameworks](css_frameworks) -->

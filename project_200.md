@@ -29,11 +29,7 @@ permalink: /project_200
 1. `npm start`
 1. Navigate to `http://localhost:4200` in your browser
 1. Create a new repo on GitHub and push project (it is already a git repo)
-<!-- 1. Deploy project on Heroku -->
-<!--     1. Get a Heroku account [https://www.heroku.com/](https://www.heroku.com/) -->
-<!--     1. Create a new node project -->
-<!--     1. Hook up to your GitHub project -->
-<!--     1. Deploy -->
+1. [Deploy to Heroku](deploy_to_heroku)
 
 ### Notes
 `assets/ `
