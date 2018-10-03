@@ -1,9 +1,9 @@
 ---
-title: Lesson SERIAL303
-permalink: /project_SERIAL303
+title: Lesson 303
+permalink: /project_303
 ---
 
-# Lesson SERIAL303
+# Lesson 303
 
 ## Async Pipe
 
@@ -12,7 +12,7 @@ permalink: /project_SERIAL303
 
 ### At CoderGirl
 
-* [ABC Lesson SERIAL303](https://stackblitz.io/github/AngularBootCamp/async-pipe) (_StackBlitz_)
+* [ABC Lesson 303](https://stackblitz.io/github/AngularBootCamp/async-pipe) (_StackBlitz_)
 
 ### Workshop
 
