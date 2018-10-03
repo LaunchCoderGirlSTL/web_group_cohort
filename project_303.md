@@ -39,7 +39,7 @@ permalink: /project_303
 * In the constructor of the component, call the service method and assign the observable to your property
 * Use the async pipe in the HTML file to display the data on the screen. You will probably also need the json pipe: 
 
-  {{`myProperty | async | json`}}
+  `{{` `myProperty | async | json` `}}`
 * Start laying out your homepage
   * Use the wireframes you designed a couple weeks ago
   * Put some structure on your page
