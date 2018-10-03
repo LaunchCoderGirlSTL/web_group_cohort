@@ -49,12 +49,10 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 
 #### Unit 3: Get Data!
 
-* [Dependency Injection and HTTP](project_300)
-<!-- * interviewing skills -->
-
-<!-- * [Injecting Custom Services](project_301)  -->
-<!-- * [Observables](project_302) -->
-<!-- * [Async Pipe](project_303) -->
+* [Dependency Injection and HTTP](project_300) <!-- * interviewing skills -->
+* [Injecting Custom Services](project_301) 
+* [Observables](project_302)
+* [Async Pipe](project_303)
 
 <!-- * [Component Inputs](project_205) -->
 
@@ -69,6 +67,6 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Pick your Project](pick_your_project)
 * [Wireframing](wireframing)
 * [Deploying to Heroku](deploy_to_heroku)
-* more coming soon
 
 <!-- * [CSS Frameworks](css_frameworks) -->
+* more coming soon

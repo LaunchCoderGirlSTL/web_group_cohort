@@ -14,7 +14,10 @@ permalink: /project_SERIAL
 
 * [ABC Lesson SERIAL]() (_StackBlitz_)
 
-### Do On Your Own
+### Workshop
+*
+
+### Homework
 *
 
 [Home]( /web_group_cohort/project_track )
