@@ -53,10 +53,8 @@ Angular lessons are using Angular Boot Camp's open source repository. [ABC on Gi
 * [Injecting Custom Services](project_301) 
 * [Observables](project_302)
 * [Async Pipe](project_303)
-
-<!-- * [Component Inputs](project_205) -->
-
-<!-- * [Component Events](project_206) -->
+* [Component Inputs](project_205)
+* [Component Events](project_206)
 
 <!-- * [Reactive Forms](project_400) do this-->
 
