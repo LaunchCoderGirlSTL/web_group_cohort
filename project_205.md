@@ -27,6 +27,8 @@ This will be done in the Video project in _VS Code_
   * Update your `*ngFor` to use your new component instead of plain HTML (if you follow my example, your component’s selector is `app-video-list-item`)
   * Use component data binding to supply the data for each video entry.
   * Verify that clicking a video still results in visually identifying the selected video.
+  
+[See diagram of how the components should work together](https://docs.google.com/presentation/d/1KSxT0a7eBAw77eSWtgVDAPrMaIDGLPp5VIPKMlTE7FY/edit#slide=id.p)
 
 Homework:
 * Get your project deployed to Heroku. Follow instructions here. [Deploying to Heroku](deploy_to_heroku) If you have problems, reach out on slack.
