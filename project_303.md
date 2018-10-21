@@ -20,7 +20,7 @@ permalink: /project_303
     ```
     ng generate service videoData
     ```
-* Inject the service into the VideoDashboardComponent and use it to load the
+* Inject the service into the VideoListComponent and use it to load the
   video data.
 * Use the async pipe to unwrap the data in the observable
 * Use the RxJS `map` operator in the video data service to transform
@@ -37,7 +37,7 @@ permalink: /project_303
 * Inject the service into your component
 * Create a property on your component 
 * In the constructor of the component, call the service method and assign the observable to your property
-* Use the async pipe in the HTML file to display the data on the screen. You will probably also need the json pipe: `myProperty | async | json`. Don't forget to put it inside double cirly braces (they are omitted since they will not render on the site)
+* Use the async pipe in the HTML file to display the data on the screen. You will probably also need the json pipe: `myProperty | async | json`. Don't forget to put it inside double curly braces (they are omitted since they will not render on the site)
 * Start laying out your homepage
   * Use the wireframes you designed a couple weeks ago
   * Put some structure on your page
