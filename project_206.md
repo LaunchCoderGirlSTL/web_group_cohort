@@ -12,7 +12,7 @@ permalink: /project_206
 
 ### At CoderGirl
 
-* [ABC Lesson 206]() (_StackBlitz_)
+* [ABC Lesson 206](https://stackblitz.com/github/AngularBootCamp/component-events) (_StackBlitz_)
 
 ### Workshop
 This will be done in the Video project in _VS Code_
@@ -24,6 +24,7 @@ This will be done in the Video project in _VS Code_
 
 * **Take this one step at a time**: Make sure you have correctly captured the event in the dashboard (use a `console.log`) before you attempt to bind the selected video into the player. 
 
+[See diagram of how the components should work together](https://docs.google.com/presentation/d/1KSxT0a7eBAw77eSWtgVDAPrMaIDGLPp5VIPKMlTE7FY/edit#slide=id.g448f9c7a23_1_0)
 
 ### Homework
 * Keep working on your project. Start integrating with your external API if you haven't already done so.
