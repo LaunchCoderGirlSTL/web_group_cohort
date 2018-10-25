@@ -26,6 +26,6 @@ This will be done in the Video project in _VS Code_
 
 
 ### Homework
-*
+* Keep working on your project. Start integrating with your external API if you haven't already done so.
 
 [Home]( /web_group_cohort/project_track )
